@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PROGRAM1
+comment1.params=x
+comment1.target=void\ area_of_circle(int)
+comment2.params=a\ b
+comment2.target=void\ area_of_rect(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
